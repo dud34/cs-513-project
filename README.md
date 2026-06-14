@@ -48,3 +48,41 @@ Temporally, the menus span from approximately 1840 to the early 2000s, with the 
 - The `keywords` and `language` columns are null in virtually all rows (17,545 of 17,547), suggesting these fields were never populated.
 - The `currency` and `currency_symbol` columns are null in 11,089 of 17,547 menu records, likely because most prices were recorded directly in MenuItem.csv without explicit currency annotation at the menu level.
 - The `status` field indicates whether a menu has been fully transcribed (`complete`) or is still under review, with 17,371 complete and 174 under review.
+
+## 2. Use Cases
+
+### 2.1 Target Use Case ($U_1$): Cleaning is Necessary and Sufficient
+
+To be updated
+
+### 2.2 Zero Data Cleaning Use Case ($U_0$): Good Enough as Is
+
+To be updated
+
+### 2.3 Never Enough Use Case ($U_2$): Insufficient Even with Cleaning
+
+To be updated
+
+## 3. Data Quality Problems
+
+### 3.1 Identified Data Quality Problems ($P$)
+
+To be updated
+
+### 3.2 Evidence & Dirty Data Snippets
+
+To be updated
+
+## 4. Initial Data Cleaning Plan
+
+### 4.1 Workflow Steps ($S_1$ to $S_5$)
+
+To be updated
+
+### 4.2 Proposed Toolset
+
+To be updated
+
+### 4.3 Tentative Task Assignment & Timeline
+
+To be updated
